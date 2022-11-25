@@ -55,5 +55,23 @@
     "jest": "27.4.5",
     "typescript": "4.5.4",
     "typescript-eslint": "^0.0.1-alpha.0"
-  }
+  },
+  "name": "concert-venue-testing-jest",
+  "description": "### An app to support the Udemy course [Testing Next.js Apps](https://www.udemy.com/course/nextjs-testing/)",
+  "version": "1.0.0",
+  "main": "jest.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samaneh96k/concert-venue-testing-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samaneh96k/concert-venue-testing-jest/issues"
+  },
+  "homepage": "https://github.com/samaneh96k/concert-venue-testing-jest#readme"
 }
